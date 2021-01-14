@@ -70,9 +70,5 @@ $ [Other Information](#Other-Information)
 		source not from my Github, I am not responsible for anything
 		that happens. Thank you for being faithful to using toolsig.
 
-## Other Information
-	☆ https://github.com/dilame/instagram-private-api
-	☆ Thank you for the help of all members SGB TEAM REBORN (https://www.sgb.or.id/).
-
 ## License
 	☑ This project is licensed under MIT License 2017-2020. https://opensource.org/licenses/MIT.
