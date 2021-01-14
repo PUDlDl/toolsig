@@ -1,4 +1,4 @@
-## toolsig v3 (Instagram Tools)
+## toolsig v3 (IG Tools)
 * Instagram (also called IG or Insta) is a photo and video sharing application that allows users to take photos, take videos, apply digital filters and share them to various social networking services, including Instagram's own.
 * Instagram Tools Based on NodeJS (This script or code was created by ccocot - Aldi Nugraha).
 
@@ -6,28 +6,28 @@
 [![License](http://img.shields.io/:license-MIT-brightgreen.svg?style=flat)](LICENSE)
 [![Badges](https://img.shields.io/badge/badges-√-brightgreen.svg)](https://shields.io/)
 
-## Table of Contents
-$ [Default or Basic Usage](#Default-or-Basic-Usage)
-$ [Information Tools](#Information-Tools)
-$ [Warning](#Warning)
-$ [Update](#Update)
-$ [Attention](#Attention)
-$ [License](#License)
-$ [Other Information](#Other-Information)
+<p align="center">
+
+|       Use       |
+| :------------:  |
+
+`JavaScript & NodeJS`
+|    Install    |
+| :-----------: |
+
+Clone this Project
 
 ## Default or Basic Usage
 	$ git clone https://github.com/PUDlDl/toolsig.git
 	$ cd toolsig
 	$ npm i
 	$ node index.js
-	
-## Tutorial on PC/LAPTOP [OS]
-	# Download & Install Git for Windows (32/64bit)
-	# Download & Install NodeJs for Windows (Recommend Use NodeJS LTS (32/64bit))
-	# Download File toolsig (https://s.id/2yGC6) & Extract the file
-	# Right Click (Mouse/Touchpad) In "toolsig-master" Folder & Choose Git Bash Here!
-	$ npm i
-	$ node index.js
+
+| Install the dependencies |
+| :----------------------: |
+
+Before running the below command, make sure you're in the project directory that
+you've just cloned!
 
 ## Use Termux
 	$ pkg upgrade && pkg update
