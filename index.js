@@ -17,24 +17,24 @@ for (var k in interfaces) {
 }
 //DETECT IP *END!
 const questionTools = [
-  "➥ Information",
-  "➥ Bot Like Timeline",
-  "➥ Bot Like Target User",
-  "➥ Mass Delete Post/Photo",
+  "❍⧐ Information",
+  "❍⧐ Bot Like Timeline",
+  "❍⧐ Bot Like Target User",
+  "❍⧐ Mass Delete Post/Photo",
 
-  "➥ F-L-C -> Followers Target",
-  "➥ F-L-C -> Followers Target [BETA]",
+  "❍⧐ F-L-C -> Followers Target",
+  "❍⧐ F-L-C -> Followers Target [BETA]",
 
-  "➥ F-L-C -> Followers Target v2",
+  "❍⧐ F-L-C -> Followers Target v2",
 
-  "➥ F-L-DM -> Followers Target",
-  "➥ F-L-DM -> Followers Target [BETA]",
+  "❍⧐ F-L-DM -> Followers Target",
+  "hah? F-L-DM -> Followers Target [BETA]",
 
-  "➥ F-L-C -> Hashtag Target",
-  "➥ F-L-C -> Location Target",
+  "❍⧐ F-L-C -> Hashtag Target",
+  "❍⧐ F-L-C -> Location Target",
 
-  "➥ Unfollow All Following",
-  "➥ Unfollow Not Followback",
+  "❍⧐ Unfollow All Following",
+  "❍⧐ Unfollow Not Followback",
   "\n",
 ];
 
@@ -76,8 +76,8 @@ console.log(chalk`{bold.green
    ▀▀▀  ▀█▄▀▪ ▀█▄▀▪.▀▀▀  ▀▀▀▀ ▀▀▀·▀▀▀▀ 
 
   Ξ TITLE  : toolsig v3.0
-  Ξ UPDATE : 03/12/2020#12:00
-  Ξ EMAIL  : officialputuid@hack.id
+  Ξ UPDATE : 01/15/2021#12:00
+  Ξ EMAIL  : pudldlgang@gmail.com
 
   116 111 111 108 115 105 103  118 51 
   }`);
@@ -93,6 +93,6 @@ console.log(chalk`{bold.yellow
   : @ccocot . @aldinp16 . @rifqihaidar
   : @dilame . @ikiganteng . @masokky
   •••••••••••••••••••••••••••••••••••••••••
-  : IPutuJayaAdiPranata & DedeKurniawan
+  : PUDlDl GANG & DedeKurniawan
   : Thanks To All Member Sharing Gils Blog }\n`);
 main();
