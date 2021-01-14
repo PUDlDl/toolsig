@@ -40,29 +40,29 @@ you've just cloned!
 ```
 ## Information Tools
 
-❍⧐ Bot Like Timeline 
+Bot Like Timeline 
 | :----------------: |
-❍⧐ Bot Like Target User
-
-❍⧐ Mass Delete Post/Photo
-
-❍⧐ F-L-C -> Followers Target
-
-❍⧐ F-L-C -> Followers Target v2
-
-❍⧐ F-L-C -> Followers Target [BETA]
-
-❍⧐ F-L-DM -> Followers Target
-
-❍⧐ F-L-DM -> Followers Target [BETA]
-
-❍⧐ F-L-C -> Hashtag Target
-
-❍⧐ F-L-C -> Location Target
-
-❍⧐ Unfollow All Following
-
-❍⧐ Unfollow Not Followback
+Bot Like Target User
+| :-----------------: |
+Mass Delete Post/Photo
+| :-----------------: |
+F-L-C -> Followers Target
+| :-----------------: |
+F-L-C -> Followers Target v2
+| :-----------------: |
+F-L-C -> Followers Target [BETA]
+| :-----------------: |
+F-L-DM -> Followers Target
+| :-----------------: |
+F-L-DM -> Followers Target [BETA]
+| :-----------------: |
+F-L-C -> Hashtag Target
+| :-----------------: |
+F-L-C -> Location Target
+| :-----------------: |
+Unfollow All Following
+| :-----------------: |
+Unfollow Not Followback
 
 ## Warning
 	⚠ Use tools at your own risk.
