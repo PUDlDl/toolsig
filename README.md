@@ -16,7 +16,7 @@ $ [License](#License)
 $ [Other Information](#Other-Information)
 
 ## Default or Basic Usage
-	$ git clone https://github.com/officialputuid/toolsig.git
+	$ git clone https://github.com/PUDlDl/toolsig.git
 	$ cd toolsig
 	$ npm i
 	$ node index.js
@@ -33,7 +33,7 @@ $ [Other Information](#Other-Information)
 	$ pkg upgrade && pkg update
 	$ pkg install git
 	$ pkg install nodejs-lts
-	$ git clone https://github.com/officialputuid/toolsig.git
+	$ git clone https://github.com/PUDlDl/toolsig.git
 	$ cd toolsig
 	$ npm i
 	$ node index.js
