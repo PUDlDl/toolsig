@@ -40,8 +40,8 @@ you've just cloned!
 ```
 ## Information Tools
 
-|:-----------------: |
-Bot Like Timeline 
+
+| Bot Like Timeline | 
 | :----------------: |
 Bot Like Target User
 | :-----------------: |
