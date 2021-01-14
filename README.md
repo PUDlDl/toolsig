@@ -2,7 +2,7 @@
 * Instagram (also called IG or Insta) is a photo and video sharing application that allows users to take photos, take videos, apply digital filters and share them to various social networking services, including Instagram's own.
 * Instagram Tools Based on NodeJS (This script or code was created by ccocot - Aldi Nugraha).
 
-[![Build](https://img.shields.io/badge/Codename_-_officialputuid-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Codename_-PUDlDl-brightgreen.svg)]()
 [![License](http://img.shields.io/:license-MIT-brightgreen.svg?style=flat)](LICENSE)
 [![Badges](https://img.shields.io/badge/badges-%F0%9F%91%8D-brightgreen.svg)](https://shields.io/)
 
@@ -29,7 +29,7 @@ $ [Other Information](#Other-Information)
 	$ npm i
 	$ node index.js
 
-## Tutorial on Termux [ANDROID]
+## Use Termux
 	$ pkg upgrade && pkg update
 	$ pkg install git
 	$ pkg install nodejs-lts
@@ -38,27 +38,19 @@ $ [Other Information](#Other-Information)
 	$ npm i
 	$ node index.js
 
-## Tutorial on C9io/CodeAnywhere [WEB]
-	$ Login c9.io/login | https://codeanywhere.com/login
-	$ Select & Install Workspace + Package NodeJS
-	$ git clone https://github.com/officialputuid/toolsig.git
-	$ cd toolsig
-	$ npm i
-	$ node index.js
-
 ## Information Tools
-	➥ Bot Like Timeline
-	➥ Bot Like Target User
-	➥ Mass Delete Post/Photo
-	➥ F-L-C -> Followers Target
-	➥ F-L-C -> Followers Target [BETA]
-	➥ F-L-C -> Followers Target v2
-	➥ F-L-DM -> Followers Target
-	➥ F-L-DM -> Followers Target [BETA]
-	➥ F-L-C -> Hashtag Target
-	➥ F-L-C -> Location Target
-	➥ Unfollow All Following
-	➥ Unfollow Not Followback
+        ❍⧐ Bot Like Timeline
+	❍⧐ Bot Like Target User
+	❍⧐ Mass Delete Post/Photo
+	❍⧐ F-L-C -> Followers Target
+	❍⧐ F-L-C -> Followers Target v2
+	❍⧐ F-L-C -> Followers Target [BETA]
+	❍⧐ F-L-DM -> Followers Target
+	❍⧐ F-L-DM -> Followers Target [BETA]
+	❍⧐ F-L-C -> Hashtag Target
+	❍⧐ F-L-C -> Location Target
+	❍⧐ Unfollow All Following
+	❍⧐ Unfollow Not Followback
 
 ## Warning
 	⚠ Use tools at your own risk.
@@ -84,6 +76,3 @@ $ [Other Information](#Other-Information)
 
 ## License
 	☑ This project is licensed under MIT License 2017-2020. https://opensource.org/licenses/MIT.
-
-## Me!
-	☆ fb|ig|twitter|gplus|keybase|line|github|behance|medium? officialputuid.
