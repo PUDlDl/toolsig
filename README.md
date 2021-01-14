@@ -4,7 +4,7 @@
 
 [![Build](https://img.shields.io/badge/Codename_-PUDlDl-brightgreen.svg)]()
 [![License](http://img.shields.io/:license-MIT-brightgreen.svg?style=flat)](LICENSE)
-[![Badges](https://img.shields.io/badge/badges-%F0%9F%91%8D-brightgreen.svg)](https://shields.io/)
+[![Badges](https://img.shields.io/badge/badges-√-brightgreen.svg)](https://shields.io/)
 
 ## Table of Contents
 $ [Default or Basic Usage](#Default-or-Basic-Usage)
