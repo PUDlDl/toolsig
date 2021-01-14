@@ -18,39 +18,39 @@
 Clone this Project
 
 ## Default or Basic Usage
-	$ git clone https://github.com/PUDlDl/toolsig.git
-	$ cd toolsig
-	$ npm i
-	$ node index.js
-
+```bash
+> git clone https://github.com/PUDlDl/toolsig.git
+> cd toolsig
+> npm i
+> node index.js
+```
 | Install the dependencies |
 | :----------------------: |
 
 Before running the below command, make sure you're in the project directory that
 you've just cloned!
-
-## Use Termux
-	$ pkg upgrade && pkg update
-	$ pkg install git
-	$ pkg install nodejs-lts
-	$ git clone https://github.com/PUDlDl/toolsig.git
-	$ cd toolsig
-	$ npm i
-	$ node index.js
-
+```php
+> pkg upgrade && pkg update
+> pkg install git
+> pkg install nodejs-lts
+> git clone https://github.com/PUDlDl/toolsig.git
+> cd toolsig
+> npm i
+> node index.js
+```
 ## Information Tools
-        ❍⧐ Bot Like Timeline
-	❍⧐ Bot Like Target User
-	❍⧐ Mass Delete Post/Photo
-	❍⧐ F-L-C -> Followers Target
-	❍⧐ F-L-C -> Followers Target v2
-	❍⧐ F-L-C -> Followers Target [BETA]
-	❍⧐ F-L-DM -> Followers Target
-	❍⧐ F-L-DM -> Followers Target [BETA]
-	❍⧐ F-L-C -> Hashtag Target
-	❍⧐ F-L-C -> Location Target
-	❍⧐ Unfollow All Following
-	❍⧐ Unfollow Not Followback
+❍⧐ Bot Like Timeline 
+❍⧐ Bot Like Target User
+❍⧐ Mass Delete Post/Photo
+❍⧐ F-L-C -> Followers Target
+❍⧐ F-L-C -> Followers Target v2
+❍⧐ F-L-C -> Followers Target [BETA]
+❍⧐ F-L-DM -> Followers Target
+❍⧐ F-L-DM -> Followers Target [BETA]
+❍⧐ F-L-C -> Hashtag Target
+❍⧐ F-L-C -> Location Target
+❍⧐ Unfollow All Following
+❍⧐ Unfollow Not Followback
 
 ## Warning
 	⚠ Use tools at your own risk.
