@@ -29,7 +29,7 @@ Clone this Project
 
 Before running the below command, make sure you're in the project directory that
 you've just cloned!
-```php
+```bash
 > pkg upgrade && pkg update
 > pkg install git
 > pkg install nodejs-lts
@@ -39,6 +39,7 @@ you've just cloned!
 > node index.js
 ```
 ## Information Tools
+
 ❍⧐ Bot Like Timeline 
 
 ❍⧐ Bot Like Target User
