@@ -19,7 +19,7 @@ const {
 
   Ξ TITLE : Unfollow All Following User
   Ξ NOTE  : 116 111 111 108 115 105 103  118 51 
-          : TESTED "OK" BUG? YouTellMe!
+          : TESTED "OK" BUG? YouCallMe!
     }`
   );
   const questions = [
