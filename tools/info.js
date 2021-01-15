@@ -88,13 +88,11 @@ const main = async () => {
       case "❆ Me":
         print(
           chalk`{bold.green
-  Instagram (https://instagram.com/officialputuid)
-  Youtube   (https://youtube.com/c/officialputuid)
-  Facebook  (https://facebook.con/officialputuid)
-  Twitter   (https://twitter.com/officialputuid)
-  Github    (https://github.com/officialputuid)
+  Instagram (https://instagram.com/itspapoy)
+  Youtube   (https://youtube.com/c/Fadhli Ryan F)
+  Github    (https://github.com/PUDlDl)
 
-  Donation? Just Follow, Like, Share & Comments!}`
+  Donation? Just Follow, Like, & Share !}`
         );
         break;
 
