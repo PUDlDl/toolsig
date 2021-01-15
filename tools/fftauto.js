@@ -19,7 +19,7 @@ const {
 
   Ξ TITLE : Folow Like Comment (Followers Target)
   Ξ NOTE  : Only Single Target, for More use [BETA]
-          : TESTED "OK" BUG? YouTellMe!
+          : TESTED "OK" BUG? YouCallMe!
     }`
   );
   const questions = [
